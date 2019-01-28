@@ -1,0 +1,13 @@
+2048 2048
+filter offset
+highpass 25
+feathering 12 normal, shift click make a cross
+menu box on right to flatten image
+save as jpeg or targa
+Filter 3d generate normal map
+save as tarega no 32
+
+
+have to make cuts in uv
+
+textures.com
